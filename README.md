@@ -38,16 +38,6 @@ Example MongoDB URL:
 mongodb+srv://<username>:<password>@cluster0.mongodb.net/inventory
 ```
 
-### 4. Run the Server
-
-```bash
-npm run start
-```
-
-Server will run on: `http://localhost:3000`
-
----
-
 ## 🔄 API Endpoints
 
 ### ➕ Create Item
